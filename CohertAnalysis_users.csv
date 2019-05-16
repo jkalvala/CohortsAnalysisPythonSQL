@@ -1,0 +1,4 @@
+user_id,first_name,last_name,referral_code,referred_by_code,date_joined
+1,Janet,Apple,6z4,,9/1/2014
+2,Margaret,Gomez,2er,6z4,9/5/2014
+3,Alice,Smith,3y2,6z4,10/1/2014
